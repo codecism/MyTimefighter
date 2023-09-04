@@ -14,6 +14,8 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
+    // Hello, welcome to the app's code. Sit down, put your feet up. I'm just testing out pushing to git/github.
+
     private val TAG = MainActivity::class.java.simpleName
 
     private lateinit var gameScoreTextView: TextView
